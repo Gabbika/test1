@@ -1,0 +1,59 @@
+
+:root {
+	--bg_col: hsl(36, 100%, 99%);
+	--col_main: hsl(240, 100%, 5%);
+	--col_list_head: hsl(35, 77%, 62%);
+	--col_list: hsl(36, 100%, 99%);
+	--col_btn: hsl(5, 85%, 63%);
+	--col_numb: hsl(233, 8%, 79%);
+	--fw-reg: 400;
+   --fw-medium: 700;
+   --fw-bold: 800;
+   --fs: 15px;
+}
+:hover {
+	--col_nav_h: hsl(5, 85%, 63%);
+	--col_btn_h: hsl(240, 100%, 5%);
+	--col_list_h: hsl(35, 77%, 62%);
+
+}
+
+body {
+	font-family: "Inter", sans-serif;
+	font-size: var(--fs);
+}
+
+.nav{
+	display: inline-block;
+
+}
+.info{
+
+}
+.future{
+
+}
+.text{
+
+}
+.main_txt{
+
+}
+.list{
+
+}
+.sec{
+
+}
+.benefit{
+
+}
+.topic{
+
+}
+.topic_txt{
+
+}
+.context{
+
+}
